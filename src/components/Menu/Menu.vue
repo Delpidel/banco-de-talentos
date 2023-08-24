@@ -25,6 +25,7 @@
 </template>
 
 <style scoped>
+
 .menu {
     display: flex;
     justify-content: space-between;
