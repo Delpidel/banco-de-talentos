@@ -8,7 +8,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     font-weight: bold;
-    color:rgb(114, 214, 214);
+    color:black;
     text-align: center;
 }
 .menu {

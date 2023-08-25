@@ -10,13 +10,13 @@
         
         <router-link to="/talentos/novo" class="item-menu">
             <li>
-                <img width="50" height="50" src="https://img.icons8.com/ios/50/home--v1.png" alt="home--v1"/>
+                <img width="50" height="50" src="https://img.icons8.com/ios/50/form--v1.png" alt="form--v1"/>
                 <h2>Cadastro</h2>
             </li>
         </router-link>
         <router-link to="/sobre" class="item-menu">
             <li>
-                <img width="50" height="50" src="https://img.icons8.com/ios/50/home--v1.png" alt="home--v1"/>
+                <img width="50" height="50" src="https://img.icons8.com/ios/50/about--v1.png" alt="about--v1"/>
                 <h2>Sobre</h2>
             </li>
         </router-link>
@@ -36,13 +36,15 @@
     border: 1px solid black;
     border-radius: 6px;
     padding: 5px;
-    width: 33%;
+    width: 17%;
+    text-decoration: none;
 }
 .item-menu li {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 10px;
+    gap: 20px;
     width: 33%;
 }
+
 </style>
